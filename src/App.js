@@ -63,7 +63,7 @@ function App() {
             I worked in retail for over 16 years as part of several leading
             brands, including Aspinal of London, Elliot Rhodes, GAME and
             Harrods. I was involved in many aspects of these businesses, from
-            marketing and merchandising to customer service annd retention that
+            marketing and merchandising to customer service and retention that
             I see as transferable skills.
           </p>
 
